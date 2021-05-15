@@ -1,0 +1,14 @@
+
+
+.card {
+ 
+  max-width:40%;
+  margin:auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.title {
+  
+  font-size: 18px;
+}
